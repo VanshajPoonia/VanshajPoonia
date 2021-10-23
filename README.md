@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goal : Complete 5000 Websites 🤣
-- ⚡ Fun fact: I can play guitar so if my business fails, I have a backup 🤣
+- 🥅 2021 Goal : Complete 5000 Websites 😆
+- ⚡ Fun fact: I can play guitar so if my startup fails, I have a backup 🤣
 
 ### Connect with me:
 
