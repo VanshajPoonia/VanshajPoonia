@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Vanshaj [website] 👋
+### Hi there, I'm Vanshaj ([website]) 👋
 
 [![Website](https://img.shields.io/website?label=vanshajpoonia.com&style=for-the-badge&url=https%3A%2F%2Fvanshajpoonia.com)](https://vanshajpoonia.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/VanshajPoonia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVanshajPoonia&screen_name=VanshajPoonia)
