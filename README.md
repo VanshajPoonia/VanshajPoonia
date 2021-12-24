@@ -27,14 +27,13 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="vanshajpoonia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Vanshaj Poonia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Vanshaj Poonia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vanshaj Poonia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshajpoonia06@gmail.com)](mailto:vanshajpoonia06@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshaj-poonia-941204201/)](https://www.linkedin.com/in/vanshaj-poonia-941204201/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/VanshajPoonia)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vanshajpoonia/)](
 
 <br />
 
-[![Vanshaj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vanshajpoonia&theme=xcode)](https://github.com/VanshajPoonia)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -58,3 +57,17 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/VanshajPoonia
 [instagram]: https://instagram.com/vanshajpoonia
 [linkedin]: https://www.linkedin.com/in/vanshaj-poonia-941204201/
+
+## 📈 Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=vanshajpoonia&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshajpoonia&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshajpoonia&theme=tokyonight" />
+</p>
