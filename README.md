@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 <br />
 
+[![Vanshaj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vanshajpoonia&theme=xcode)](https://github.com/VanshajPoonia)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
