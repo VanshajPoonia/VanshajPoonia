@@ -6,7 +6,7 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goal : Complete the goal of 6000 Websites, apps and misc projects 😆
+- 🥅 2023 Goal : Complete the goal of 6000 Websites, apps and misc projects 😆
 - ⚡ Fun fact: I can play guitar so if my startup fails, I have a backup 🤣
 
 ### Connect with me:
@@ -40,7 +40,7 @@
 [Portfolio site]: https://vanshajpoonia.com
 [twitter]: https://twitter.com/VanshajPoonia
 [instagram]: https://www.instagram.com/vanshajpoonia
-[linkedin]: https://www.linkedin.com/in/vanshajpoonia/
+[linkedin]: https://www.linkedin.com/in/vanshajpoonia
 
 
 
