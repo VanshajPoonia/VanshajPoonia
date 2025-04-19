@@ -1,19 +1,17 @@
 ### Hi there, I'm Vanshaj ([Portfolio site]) 👋
 
-[![Portfolio Site](https://img.shields.io/website?label=vanshajpoonia.com&style=for-the-badge&url=https%3A%2F%2Fvanshajpoonia.com)](https://vanshajpoonia.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/VanshajPoonia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVanshajPoonia&screen_name=VanshajPoonia)
+[![Portfolio Site](https://img.shields.io/website?label=vanshajpoonia.com&style=for-the-badge&url=https%3A%2F%2Fiamvanshajpoonia.vercel.app)](https://iamvanshajpoonia.vercel.app/)
 
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 
-- 🥅 2024 Goal : Complete the goal of 7000 Websites, apps and misc projects 
+- 🥅 2025 Goal : Complete the goal of 7000 Websites, apps and misc projects 
 - ⚡ Fun fact: I can play guitar so if my startup fails, I have a backup 
 
 ### Connect with me:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshajpoonia06@gmail.com)](mailto:vanshajpoonia06@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshaj-poonia-941204201/)](https://www.linkedin.com/in/vanshajpoonia)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/VanshajPoonia)
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vanshajpoonia/)
 
 <br />
@@ -37,8 +35,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[Portfolio site]: https://vanshajpoonia.com
-[twitter]: https://twitter.com/VanshajPoonia
+[Portfolio site]: https://ivanshajpoonia.vercel.app
 [instagram]: https://www.instagram.com/vanshajpoonia
 [linkedin]: https://www.linkedin.com/in/vanshajpoonia
 
