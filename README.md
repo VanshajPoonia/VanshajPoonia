@@ -1,6 +1,6 @@
 ### Hi there, I'm Vanshaj ([Portfolio site]) 👋
 
-[![Portfolio Site](https://img.shields.io/website?label=vanshajpoonia.com&style=for-the-badge&url=https%3A%2F%2Fiamvanshajpoonia.vercel.app)](https://iamvanshajpoonia.vercel.app/)
+[![Portfolio Site](https://img.shields.io/website?label=iamvanshajpoonia.vercel.app&style=for-the-badge&url=https%3A%2F%2Fiamvanshajpoonia.vercel.app)](https://iamvanshajpoonia.vercel.app/)
 
 ## I'm a Developer!!
 
