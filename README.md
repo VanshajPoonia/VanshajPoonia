@@ -5,7 +5,7 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 
-- 🥅 2025 Goal : Complete the goal of 7000 Websites, apps and misc projects 
+- 🥅 2026 Goal : Complete the goal of 7000 Websites, apps and misc projects 
 - ⚡ Fun fact: I can play guitar so if my startup fails, I have a backup 
 
 ### Connect with me:
@@ -56,5 +56,4 @@
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshajpoonia&theme=tokyonight" />
 </p>
