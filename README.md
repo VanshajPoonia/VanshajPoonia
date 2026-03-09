@@ -5,7 +5,8 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 
-- 🥅 2026 Goal : Complete the goal of 7000 Websites, apps and misc projects 
+- 🥅 2026 Goal : Complete the goal of 7000 Websites, apps and misc projects
+- ⚡ Fun fact: I can play guitar
 
 ### Connect with me:
 
