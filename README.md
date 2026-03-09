@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning everything 
 - 🥅 2026 Goal : Complete the goal of 7000 Websites, apps and misc projects 
-- ⚡ Fun fact: I can play guitar so if my startup fails, I have a backup 
 
 ### Connect with me:
 
@@ -44,16 +43,5 @@
 <br />
 <br />
 
-### 📈 Stats
-<br />
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=vanshajpoonia&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshajpoonia&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
 <p align="center">
 </p>
