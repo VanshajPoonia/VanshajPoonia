@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Vanshaj Poonia. I build software across the stack.">
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0" r="0.7">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1200" height="320" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="#0b0c0f"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <rect x="60.5" y="44.5" width="40" height="40" rx="8" fill="#0f1a16" stroke="#1f5f45"/>
+  <text x="80.5" y="70" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#34d399">&gt;_</text>
+  <text x="118" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#a1a1aa">VANSHAJ POONIA</text>
+
+  <text x="60" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5" fill="#f4f4f5">I build software across the stack.</text>
+  <text x="60" y="214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#a1a1aa">Software engineer at Helix Grid. AI and Data Science at IIT Jodhpur.</text>
+
+  <line x1="60" y1="252" x2="1140" y2="252" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="60" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#d4d4d8"><tspan fill="#34d399">&gt;</tspan> From interfaces to infrastructure</text>
+  <text x="1140" y="286" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#d4d4d8">vanshajpoonia.com</text>
+</svg>
