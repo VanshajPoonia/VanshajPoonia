@@ -1,12 +1,23 @@
-### Hi there, I'm Vanshaj ([Portfolio site]) 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Vanshaj Poonia. I build software across the stack." src="assets/banner-light.svg" width="100%">
+</picture>
 
-[![Portfolio Site](https://img.shields.io/website?label=vanshajpoonia.com&style=for-the-badge&url=https%3A%2F%2Fvanshajpoonia.com)](https://vanshajpoonia.com/)
+<p>
+  <a href="https://vanshajpoonia.com"><img alt="Website" src="https://img.shields.io/badge/vanshajpoonia.com-111111?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vanshajpoonia"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D"></a>
+  <a href="https://x.com/PooniaVanshaj"><img alt="X" src="https://img.shields.io/badge/%40PooniaVanshaj-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://dev.to/vanshajpoonia"><img alt="DEV" src="https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"></a>
+  <a href="https://www.instagram.com/vanshajpoonia/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="mailto:vanshajpoonia06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-## I'm a Developer!!
+Hi, I'm Vanshaj. I build full-stack products and AI tools, and I'm writing a small operating system in Rust to learn what sits underneath them.
 
-- 🌱 I’m currently learning everything
-- 🥅 2026 Goal : Complete the goal of 7000 Websites, apps and misc projects
-- ⚡ Fun fact: I can play guitar
+- Software engineer at **Helix Grid** (part-time), working on LLM features
+- Studying **AI and Data Science at IIT Jodhpur**
+- Contributing to open source since Hacktoberfest 2021, lately in **AOSSIE PictoPy**, **ClickHouse Loom** and **OpenWISP**
+- Off the keyboard, I play guitar
 
 ## Things I've built
 
@@ -20,14 +31,6 @@
 | [**Open models in the browser**](https://vanshajpoonia.com/work/open-model-browser-apps)<br><sub>transformers.js · WebGPU</sub> | Seven small apps from Hacktoberfest's AI challenges. Whisper, CLIP, Gemma 3 and Kokoro run inside the tab, so nothing gets uploaded. |
 
 More on [vanshajpoonia.com/work](https://vanshajpoonia.com/work).
-
-### Connect with me:
-
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanshajpoonia06@gmail.com)](mailto:vanshajpoonia06@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshajpoonia)](https://www.linkedin.com/in/vanshajpoonia)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vanshajpoonia/)](https://www.instagram.com/vanshajpoonia/)
-
-<br />
 
 ### Languages and Tools:
 
@@ -47,16 +50,3 @@ More on [vanshajpoonia.com/work](https://vanshajpoonia.com/work).
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-[Portfolio site]: https://vanshajpoonia.com
-[instagram]: https://www.instagram.com/vanshajpoonia
-[linkedin]: https://www.linkedin.com/in/vanshajpoonia
-
-<br />
-<br />
-
-<p align="center">
-</p>
