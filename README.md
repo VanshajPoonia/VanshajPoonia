@@ -57,6 +57,6 @@ Recent posts on [DEV](https://dev.to/vanshajpoonia):
 ## Tools I reach for
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres,supabase,python,rust,c,docker,githubactions,vercel,cloudflare&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Ctailwind%2Cpostgres%2Csupabase%2Cpython%2Crust%2Cc%2Cdocker%2Cgithubactions%2Cvercel%2Ccloudflare&theme=dark">
   <img alt="TypeScript, React, Next.js, Node, Tailwind CSS, Postgres, Supabase, Python, Rust, C, Docker, GitHub Actions, Vercel, Cloudflare" src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres,supabase,python,rust,c,docker,githubactions,vercel,cloudflare&theme=light">
 </picture>
