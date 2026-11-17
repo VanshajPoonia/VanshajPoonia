@@ -45,6 +45,15 @@ Still open in Plane, Layer5, SigNoz, Headlamp, Jaeger UI, Joplin, Rocket.Chat, G
 
 It started with small docs PRs to Tailwind CSS, Appsmith, Android FHIR SDK, QuestDB and Scrapy during Hacktoberfest, and Symbl.ai named me a Top Contributor for 2021. Every PR with write-ups is on [vanshajpoonia.com/open-source](https://vanshajpoonia.com/open-source).
 
+## Writing
+
+Recent posts on [DEV](https://dev.to/vanshajpoonia):
+
+- [A receipt is a checksum: two open models read the bill, the arithmetic decides which one to trust](https://dev.to/vanshajpoonia/a-receipt-is-a-checksum-two-open-models-read-the-bill-the-arithmetic-decides-which-one-to-trust-3ihb)
+- [The contract you can't paste into ChatGPT: a red-flag finder that runs in your browser](https://dev.to/vanshajpoonia/the-contract-you-cant-paste-into-chatgpt-a-red-flag-finder-that-runs-in-your-browser-5c79)
+- [I built a bingo card you can't fill from your desk](https://dev.to/vanshajpoonia/i-built-a-bingo-card-you-cant-fill-from-your-desk-332g)
+- [My first design caught 7 allergens out of 30. One subtraction took it to 29.](https://dev.to/vanshajpoonia/my-first-design-caught-7-allergens-out-of-30-one-subtraction-took-it-to-29-3fao)
+
 ## Tools I reach for
 
 <picture>
