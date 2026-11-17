@@ -32,6 +32,19 @@ Hi, I'm Vanshaj. I build full-stack products and AI tools, and I'm writing a sma
 
 More on [vanshajpoonia.com/work](https://vanshajpoonia.com/work).
 
+## Open source
+
+Recently merged:
+
+- **[ClickHouse Loom](https://github.com/ClickHouse/loom)**: a unit test for the budget checks, plus glossary and multi-agent docs ([#674](https://github.com/ClickHouse/loom/pull/674), [#741](https://github.com/ClickHouse/loom/pull/741), [#742](https://github.com/ClickHouse/loom/pull/742))
+- **[AOSSIE PictoPy](https://github.com/AOSSIE-Org/PictoPy)**: removed stale face clusters after folder deletion ([#1392](https://github.com/AOSSIE-Org/PictoPy/pull/1392)), made the video player accessible ([#1374](https://github.com/AOSSIE-Org/PictoPy/pull/1374)), fixed a zoom bug that only showed up in production builds ([#1295](https://github.com/AOSSIE-Org/PictoPy/pull/1295)) and added CI checks and cleanup ([#1442](https://github.com/AOSSIE-Org/PictoPy/pull/1442), [#1289](https://github.com/AOSSIE-Org/PictoPy/pull/1289), [#1266](https://github.com/AOSSIE-Org/PictoPy/pull/1266))
+- **[OpenWISP netjsonconfig](https://github.com/openwisp/netjsonconfig)**: Python 3.14 and 3.15 support ([#434](https://github.com/openwisp/netjsonconfig/pull/434))
+- **[Blowhorn tells](https://github.com/blowhorn-ai/tells)**: fingerprint stability checks and a CI gate for the known-good corpus ([#45](https://github.com/blowhorn-ai/tells/pull/45), [#46](https://github.com/blowhorn-ai/tells/pull/46))
+
+Still open in Plane, Layer5, SigNoz, Headlamp, Jaeger UI, Joplin, Rocket.Chat, GoogleTest and Zulip, plus more in PictoPy, Loom and OpenWISP. [See them all](https://github.com/search?q=author%3AVanshajPoonia+is%3Apr+is%3Aopen+-user%3AVanshajPoonia&type=pullrequests).
+
+It started with small docs PRs to Tailwind CSS, Appsmith, Android FHIR SDK, QuestDB and Scrapy during Hacktoberfest, and Symbl.ai named me a Top Contributor for 2021. Every PR with write-ups is on [vanshajpoonia.com/open-source](https://vanshajpoonia.com/open-source).
+
 ## Tools I reach for
 
 <picture>
