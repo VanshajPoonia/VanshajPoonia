@@ -8,16 +8,18 @@
 - 🥅 2026 Goal : Complete the goal of 7000 Websites, apps and misc projects
 - ⚡ Fun fact: I can play guitar
 
-### Featured Projects:
+## Things I've built
 
-- 🚀 [LifeSort App](https://github.com/VanshajPoonia/lifesortapp) - A productivity/life-organization app focused on sorting goals, tasks, and personal systems.
-- 🧠 [Zenquanta AI](https://github.com/VanshajPoonia/zenquantaai) - AI product experiment around multi-model assistant workflows and modern AI interfaces.
-- 🧪 [TensorTrail](https://github.com/VanshajPoonia/TensorTrail) - A mini neural-network/tensor framework project built to understand ML internals from scratch.
-- 🎥 [ASCII Camera](https://github.com/VanshajPoonia/asciicamera) - A creative webcam project that converts live camera input into ASCII-style visuals.
-- 🎙️ [Interview Platform](https://github.com/VanshajPoonia/interview-platform) - AI interview platform concept for practice, screening, and interactive interview flows.
-- 🌐 [Portfolio Website](https://github.com/VanshajPoonia/vanshajpoonia.com) - My personal portfolio site showcasing projects, experiments, and shipped work.
-- 🧩 [3D Portfolio](https://github.com/VanshajPoonia/3d-portfolio) - An interactive 3D portfolio experiment using modern frontend tooling.
-- 💻 [Kode](https://github.com/VanshajPoonia/kode) - One of my earlier coding/project experiments and part of my learning archive.
+| Project | What it does |
+| --- | --- |
+| [**ChronoOS**](https://github.com/VanshajPoonia/chronosapien)<br><sub>Rust · no_std · x86_64</sub> | A hobby operating system. It boots under QEMU, draws its own console and gives you a shell. I wrote it to learn boot, memory, interrupts and filesystems. |
+| [**TensorTrail**](https://github.com/VanshajPoonia/TensorTrail)<br><sub>Python · NumPy</sub> | A neural network framework built from the autograd up. Convolutions, optimisers and a trainer, kept honest by 137 tests and a gradient checker. |
+| [**Already Filed**](https://github.com/VanshajPoonia/already-filed)<br><sub>EmbeddingGemma · WebGPU</sub> | Finds open GitHub issues that repeat an earlier report. The model runs in your browser tab. On zed it put the duplicate maintainers linked in its top three 65% of the time. Keyword search got 38%. [Try it](https://vanshajpoonia.github.io/already-filed/) |
+| [**Big Brother**](https://github.com/VanshajPoonia/big-brother)<br><sub>Python · Docker · Ollama</sub> | A GitHub bot that runs a bug report's code in an offline sandbox and labels the issue from what actually happens. Built overnight at a hackathon with three teammates. |
+| [**ASCII Camera**](https://github.com/VanshajPoonia/asciicamera)<br><sub>TypeScript · Canvas</sub> | Your webcam as live ASCII art at 60fps, right in the browser. [Try it](https://asciicam.vanshajpoonia.com) |
+| [**Open models in the browser**](https://vanshajpoonia.com/work/open-model-browser-apps)<br><sub>transformers.js · WebGPU</sub> | Seven small apps from Hacktoberfest's AI challenges. Whisper, CLIP, Gemma 3 and Kokoro run inside the tab, so nothing gets uploaded. |
+
+More on [vanshajpoonia.com/work](https://vanshajpoonia.com/work).
 
 ### Connect with me:
 
